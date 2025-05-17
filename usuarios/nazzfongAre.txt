@@ -1,0 +1,14 @@
+USUARIO: nazzfongAre
+CORREO: nazlyfong@gmail.com
+CONTRASENA:nazly1234
+DESCRIPCION: Me gusta dormir
+JUEGO FAVORITO: PRUEBA1;
+RUTA IMAGEN JUEGO: ;
+JUEGO COMENTADO: PRUEBA1
+COMENTARIO: Me gusta mucho este juego
+
+
+JUEGO COMENTADO: PRUEBA1
+COMENTARIO: Es mi juego favorito
+
+
